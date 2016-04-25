@@ -1,4 +1,4 @@
 # FlatUI light Syntax Theme
-> Based on the [one-dark-syntax](https://github.com/atom/one-dark-syntax) Theme from Atom text editor.
+> Based on the [Flat theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Flat).
 
-![Preview](https://raw.github.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+![Preview](https://raw.github.com/lkytal/vscode-theme-flatui/master/preview.png)
