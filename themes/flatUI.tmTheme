@@ -18,14 +18,14 @@
 	<key>name</key>
 	<string>FlatUI</string>
 	<key>semanticClass</key>
-	<string>theme.light.flat</string>
+	<string>theme.light.flat_ui</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FCFCFC</string>
+				<string>#FDFDFD</string>
 				<key>caret</key>
 				<string>#3B3B3B</string>
 				<key>foreground</key>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#02995D</string>
+				<string>#09A167</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +221,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#AB00A2</string>
+				<string>#A30899</string>
 			</dict>
 		</dict>
 		<dict>

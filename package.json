@@ -2,7 +2,7 @@
     "name": "FlatUI",
     "displayName": "FlatUI",
     "description": "A light theme for vscode",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "lkytal",
     "engines": {
         "vscode": "*"
@@ -20,7 +20,7 @@
             {
                 "label": "FlatUI",
                 "uiTheme": "vs",
-                "path": "./themes/flatui.tmtheme.tmTheme"
+                "path": "./themes/flatui.tmtheme"
             }
         ]
     }
