@@ -2,7 +2,7 @@
     "name": "FlatUI",
     "displayName": "FlatUI",
     "description": "A light theme for vscode",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "lkytal",
     "engines": {
         "vscode": "*"
@@ -10,11 +10,11 @@
     "categories": [
         "Themes"
     ],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/lkytal/vscode-theme-flatui.git"
-	},
-	"icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lkytal/vscode-theme-flatui.git"
+    },
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
