@@ -116,7 +116,7 @@
 				<key>name</key>
 				<string>Variable Other</string>
 				<key>scope</key>
-				<string>variable.other, support.other.variable</string>
+				<string>variable.other</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
@@ -124,6 +124,19 @@
 					<key>foreground</key>
 					<string>#3193c6</string>
 					<!--#11A3D6-->
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Library variable</string>
+				<key>scope</key>
+				<string>support.other.variable</string>
+				<key>settings</key>
+				<dict>
+					<key>fontStyle</key>
+					<string>bold</string>
+					<key>foreground</key>
+					<string>#0072D6</string>
 				</dict>
 			</dict>
 			<dict>
@@ -180,7 +193,8 @@
 				<dict>
 					<key>foreground</key>
 					<!--<string>#ED2B38</string>-->
-					<string>#09A177</string>
+					<!--<string>#09A177</string>-->
+					<string>#05ad97</string>
 				</dict>
 			</dict>
 			<dict>
@@ -308,19 +322,6 @@
 				<dict>
 					<key>foreground</key>
 					<string>#3193c6</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>Library variable</string>
-				<key>scope</key>
-				<string>support.other.variable</string>
-				<key>settings</key>
-				<dict>
-					<key>fontStyle</key>
-					<string>bold</string>
-					<key>foreground</key>
-					<string>#0072D6</string>
 				</dict>
 			</dict>
 			<dict>
