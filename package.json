@@ -2,9 +2,9 @@
     "name": "FlatUI",
     "displayName": "FlatUI",
     "description": "A light theme for vscode",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "lkytal",
-    "license": "CC-NC-SA",
+    "license": "BY-NC-SA",
     "engines": {
         "vscode": "*"
     },
@@ -13,6 +13,8 @@
     ],
     "keywords": [
         "theme",
+        "color-theme",
+        "light",
         "flat"
     ],
     "homepage": "https://lkytal.github.io",
@@ -30,6 +32,11 @@
                 "label": "FlatUI",
                 "uiTheme": "vs",
                 "path": "./themes/flatui.tmtheme"
+            },
+            {
+                "label": "FlatUI Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flatDark.tmtheme"
             }
         ]
     }

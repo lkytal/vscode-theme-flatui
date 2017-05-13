@@ -258,7 +258,7 @@
 				<key>name</key>
 				<string>Function name</string>
 				<key>scope</key>
-				<string>entity.name.function,variable.function</string>
+				<string>entity.name.function,variable.function,support.function.any-method</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
