@@ -1,6 +1,11 @@
-# FlatUI
+# FlatUI Theme for VSCode
+
+<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="http://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg" alt="Installs"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="http://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg" alt="Installs"></a>
 
 A flat syntax theme for VS Code.
+
+> Licensed by <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons BY-NC-SA 4.0" target="_blank">CC 4.0 BY-NC-SA</a>
 
 ## Light style
 
@@ -18,6 +23,10 @@ A flat syntax theme for VS Code.
 - ### [Translator Plus](https://marketplace.visualstudio.com/items?itemName=lkytal.translatorplus)
 
 ## Release Note
+
+### 1.3.1
+
+- Adjust default color
 
 ### 1.3.0
 
