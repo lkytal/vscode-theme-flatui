@@ -15,6 +15,12 @@ A flat syntax theme for VS Code.
 
 ![Preview Dark](preview_dark.png)
 
+## Overview
+
+![Overview Light](overview.png)
+
+![Overview Dark](overview_dark.png)
+
 ## My Other extensions
 
 - ### [Quick Task](https://marketplace.visualstudio.com/items?itemName=lkytal.quicktask)
