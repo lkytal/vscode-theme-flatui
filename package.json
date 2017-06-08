@@ -32,12 +32,12 @@
             {
                 "label": "FlatUI",
                 "uiTheme": "vs",
-                "path": "./themes/flatui.tmtheme"
+                "path": "./themes/flatui.tmTheme"
             },
             {
                 "label": "FlatUI Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/flatDark.tmtheme"
+                "path": "./themes/flatDark.tmTheme"
             }
         ]
     }
