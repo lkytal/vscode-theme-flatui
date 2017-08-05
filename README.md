@@ -38,9 +38,13 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.0
+
+- Added Immersed style.
+
 ### 1.3.2
 
-- Add overview image.
+- Added overview image.
 
 ### 1.3.1
 
