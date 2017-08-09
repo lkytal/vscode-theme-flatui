@@ -38,6 +38,10 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.1
+
+- Fix typo in package.json to solve compatability issue.
+
 ### 1.4.0
 
 - Added Immersed style.
