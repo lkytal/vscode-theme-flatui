@@ -2,6 +2,7 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noreferrer noopener"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.png?style=flat-square"></a>
 
 A flat syntax theme for VS Code.
 
@@ -38,9 +39,13 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.2
+
+- Fall back to default color of diff view.
+
 ### 1.4.1
 
-- Fix typo in package.json to solve compatability issue.
+- Fix typo in package.json to solve compatibility issue.
 
 ### 1.4.0
 
