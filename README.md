@@ -18,15 +18,15 @@ A flat syntax theme for VS Code.
 
 ## Overview
 
-### Light Overview
+### Light Theme
 
 ![Overview Light](images/overview.png)
 
-### Immersed Overview
+### Immersed Theme
 
 ![Preview Immersed](images/overview_i.png)
 
-### Dark Overview
+### Dark Theme
 
 ![Overview Dark](images/overview_dark.png)
 
@@ -38,6 +38,11 @@ A flat syntax theme for VS Code.
 - ### [Translator Plus](https://marketplace.visualstudio.com/items?itemName=lkytal.translatorplus)
 
 ## Release Note
+
+### 1.4.3
+
+- Fall back to default color of merge view.
+- Small adjustments.
 
 ### 1.4.2
 
@@ -81,11 +86,11 @@ A flat syntax theme for VS Code.
 
 ### 1.0.0
 
-- Initial release of FlatUI.
+- The initial release of FlatUI.
 
 ## Acknowledgment
 
-This theme won't born without the help of following creations, a big thanks to them.
+This theme won't born without the help of following creations, big thanks to them.
 
 > Light style inspired by the [Flat theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Flat)
 > Dark style inspired by the [OneDark Pro](https://github.com/Binaryify/OneDark-Pro)

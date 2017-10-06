@@ -146,13 +146,13 @@
 		"panel.background": "#F0F0F0",
 		"panel.border": "#DBDBDB",
 		// Merge
-		"merge.currentHeaderBackground": "#9EC501",
-		"merge.currentContentBackground": "#9ED581",
-		"merge.incomingHeaderBackground": "#CDE5F7",
-		"merge.incomingContentBackground": "#E0E7EA",
-		"merge.border": "#DBDBDB",
-		"editorOverviewRuler.currentContentForeground": "#9ED581",
-		"editorOverviewRuler.incomingContentForeground": "#E0E7EA",
+		// "merge.currentHeaderBackground": "#9EC501",
+		// "merge.currentContentBackground": "#9ED581",
+		// "merge.incomingHeaderBackground": "#CDE5F7",
+		// "merge.incomingContentBackground": "#E0E7EA",
+		// "merge.border": "#DBDBDB",
+		// "editorOverviewRuler.currentContentForeground": "#9ED581",
+		// "editorOverviewRuler.incomingContentForeground": "#E0E7EA",
 		// Peek View
 		"peekView.border": "#DBDBDB",
 		"peekViewEditor.background": "#F6F6F6",
@@ -182,8 +182,8 @@
 		"terminal.ansiRed": "#DC322F",
 		"terminal.ansiBrightWhite": "#F0F0F0",
 		"terminal.ansiWhite": "#F0F0F0",
-		"terminal.ansiBrightYellow": "#F5E500",
-		"terminal.ansiYellow": "#F5E500",
+		"terminal.ansiBrightYellow": "#FDE351",
+		"terminal.ansiYellow": "#FDE351",
 		"terminal.background": "#F6F6F6",
 		"terminal.foreground": "#414141"
 	}

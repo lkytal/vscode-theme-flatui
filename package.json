@@ -2,7 +2,7 @@
 	"name": "FlatUI",
 	"displayName": "FlatUI",
 	"description": "A flat style theme for vscode",
-	"version": "1.4.2",
+	"version": "1.4.3",
 	"publisher": "lkytal",
 	"license": "CC-BY-NC-SA-4.0",
 	"engines": {
@@ -18,7 +18,7 @@
 		"light",
 		"dark"
 	],
-	"homepage": "https://lkytal.github.io",
+	"homepage": "https://lkytal.github.io/vscode-theme-flatui",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/lkytal/vscode-theme-flatui.git"
