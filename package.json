@@ -37,12 +37,17 @@
 			{
 				"label": "FlatUI Immersed",
 				"uiTheme": "vs",
-				"path": "./themes/flatUI.json"
+				"path": "./themes/immersed.json"
 			},
 			{
 				"label": "FlatUI Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/flatDark.tmTheme"
+			},
+			{
+				"label": "FlatUI Immersed Dark",
+				"uiTheme": "vs",
+				"path": "./themes/immersedDark.json"
 			}
 		]
 	}
