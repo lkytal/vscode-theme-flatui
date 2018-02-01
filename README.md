@@ -39,6 +39,10 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.4
+
+- Tiny adjustments towards colors.
+
 ### 1.4.3
 
 - Fall back to default color of merge view.
