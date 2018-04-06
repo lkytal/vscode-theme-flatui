@@ -39,6 +39,11 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.5
+
+- Better support towards Javascript and Python.
+- Other adjustments.
+
 ### 1.4.4
 
 - Tiny adjustments towards colors.
@@ -97,6 +102,9 @@ A flat syntax theme for VS Code.
 This theme won't born without the help of following creations, big thanks to them.
 
 > Light style inspired by the [Flat theme](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Flat)
+>
 > Dark style inspired by the [OneDark Pro](https://github.com/Binaryify/OneDark-Pro)
+>
 > Immersed style inspired by the [Clean UI](https://github.com/sbovyrin/clean-ui-color-theme)
+>
 > <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="https://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>

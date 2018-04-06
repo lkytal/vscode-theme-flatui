@@ -182,8 +182,8 @@
 		"terminal.ansiRed": "#de3d3b",
 		"terminal.ansiBrightWhite": "#F0F0F0",
 		"terminal.ansiWhite": "#F0F0F0",
-		"terminal.ansiBrightYellow": "#fddf35",
-		"terminal.ansiYellow": "#fddf35",
+		"terminal.ansiBrightYellow": "#fcd703",
+		"terminal.ansiYellow": "#e3c102",
 		"terminal.background": "#F6F6F6",
 		"terminal.foreground": "#414141"
 	}

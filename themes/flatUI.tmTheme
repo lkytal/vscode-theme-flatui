@@ -46,7 +46,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#666666</string>
+					<string>#595959</string>
 					<key>background</key>
 					<string/>
 					<key>fontStyle</key>
@@ -69,11 +69,11 @@
 				<key>name</key>
 				<string>Number</string>
 				<key>scope</key>
-				<string>constant.numeric, constant.language, support.constant, constant.character</string>
+				<string>constant.numeric, support.constant, constant.character</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#e65c00</string>
+					<string>#cc5200</string>
 				</dict>
 			</dict>
 			<dict>
@@ -84,8 +84,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#ED2B38</string>
-					<!--ED2B38-->
+					<string>#ef434f</string>
 				</dict>
 			</dict>
 			<dict>
@@ -96,7 +95,18 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#eb8314</string>
+					<string>#d37612</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>User-defined constant</string>
+				<key>scope</key>
+				<string>>constant.other.object.key,constant.other.object.key.js</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#05ad97</string>
 				</dict>
 			</dict>
 			<dict>
@@ -109,22 +119,33 @@
 					<key>fontStyle</key>
 					<string/>
 					<key>foreground</key>
-					<string>#11a0d4</string>
-					<!--<string>#444</string>-->
+					<!-- <string>#44adbb</string> -->
+					<string>#0f8ebd</string>
 				</dict>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>Variable Other</string>
 				<key>scope</key>
-				<string>variable.other</string>
+				<string>variable.other,meta.object.member</string>
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
 					<string/>
 					<key>foreground</key>
-					<string>#2e87b8</string>
-					<!--#11A3D6-->
+					<string>#0f8ebd</string>
+					<!-- <string>#11a0d4</string> -->
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>variable.other.property</string>
+				<key>scope</key>
+				<string>variable.other.property</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#a15ebb</string>
 				</dict>
 			</dict>
 			<dict>
@@ -153,18 +174,6 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>JS/TS Variable Other Readwrite</string>
-				<key>scope</key>
-				<string>variable.other.readwrite,variable.other.readwrite.js,variable.other.readwrite.ts,variable.other.readwrite.tsx</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<!--<string>#05ad97</string>-->
-					<string>#444</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
 				<string>Variable other member</string>
 				<key>scope</key>
 				<string>variable.other.member</string>
@@ -178,11 +187,23 @@
 				<key>name</key>
 				<string>Function argument</string>
 				<key>scope</key>
-				<string>variable.parameter</string>
+				<string>variable.parameter,meta.function.parameters,meta.function.parameters.js</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#e66700</string>
+					<string>#cc5200</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>JS/TS Variable Other Readwrite</string>
+				<key>scope</key>
+				<string>variable.other.readwrite,meta.delimiter.comma.js</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<!--<string>#05ad97</string>-->
+					<string>#444</string>
 				</dict>
 			</dict>
 			<dict>
@@ -207,6 +228,28 @@
 				<dict>
 					<key>foreground</key>
 					<string>#4d4d4d</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Keyword Operator.Logical.Python</string>
+				<key>scope</key>
+				<string>keyword.operator.logical.python</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#05ad97</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Meta.For.Js</string>
+				<key>scope</key>
+				<string>keyword.operator.in.js,keyword.operator.of.js</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#05ad97</string>
 				</dict>
 			</dict>
 			<dict>
@@ -237,18 +280,7 @@
 				<key>name</key>
 				<string>Class name</string>
 				<key>scope</key>
-				<string>entity.name.class</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<string>#05ad97</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>Inherited class</string>
-				<key>scope</key>
-				<string>entity.other.inherited-class</string>
+				<string>entity.name.class,entity.name.type.class,entity.other.inherited-class</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
@@ -259,7 +291,7 @@
 				<key>name</key>
 				<string>Function name</string>
 				<key>scope</key>
-				<string>entity.name.function,variable.function,support.function.any-method</string>
+				<string>entity.name.function,variable.function,meta.function-call.generic.python,support.function.any-method</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
@@ -274,7 +306,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#2e87b8</string>
+					<string>#0f8ebd</string>
 				</dict>
 			</dict>
 			<dict>
@@ -298,7 +330,7 @@
 					<key>fontStyle</key>
 					<string/>
 					<key>foreground</key>
-					<string>#aa08a0</string>
+					<string>#c309b6</string>
 				</dict>
 			</dict>
 			<dict>
@@ -316,7 +348,7 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Library class&#x2f;type</string>
+				<string>Library class type</string>
 				<key>scope</key>
 				<string>support.type, support.class</string>
 				<key>settings</key>
@@ -348,7 +380,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#a15ebb</string>
+					<string>#c5074a</string>
 				</dict>
 			</dict>
 		</array>

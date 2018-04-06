@@ -1,8 +1,8 @@
 {
 	"name": "FlatUI",
-	"displayName": "FlatUI",
+	"displayName": "Flat UI",
 	"description": "A flat style theme for vscode",
-	"version": "1.4.4",
+	"version": "1.4.5",
 	"publisher": "lkytal",
 	"license": "CC-BY-NC-SA-4.0",
 	"engines": {
