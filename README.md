@@ -108,3 +108,8 @@ This theme won't born without the help of following creations, big thanks to the
 > Immersed style inspired by the [Clean UI](https://github.com/sbovyrin/clean-ui-color-theme)
 >
 > <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="https://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/badge.svg?style=beer-square)](https://beerpay.io/lkytal/vscode-theme-flatui)  [![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/make-wish.svg?style=flat-square)](https://beerpay.io/lkytal/vscode-theme-flatui?focus=wish)
