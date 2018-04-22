@@ -46,7 +46,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#595959</string>
+					<string>#555</string>
 					<key>background</key>
 					<string/>
 					<key>fontStyle</key>
@@ -61,7 +61,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#05ad97</string>
+					<string>#3d9ca9</string>
 					<!-- <string>#059481</string> -->
 				</dict>
 			</dict>
@@ -84,7 +84,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#ef434f</string>
+					<string>#D43C47</string>
 				</dict>
 			</dict>
 			<dict>
@@ -106,7 +106,8 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#05ad97</string>
+					<!-- <string>#05ad97</string> -->
+					<string>#059481</sting>
 				</dict>
 			</dict>
 			<dict>
@@ -120,32 +121,43 @@
 					<string/>
 					<key>foreground</key>
 					<!-- <string>#44adbb</string> -->
-					<string>#0f8ebd</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>Variable Other</string>
-				<key>scope</key>
-				<string>variable.other,meta.object.member</string>
-				<key>settings</key>
-				<dict>
-					<key>fontStyle</key>
-					<string/>
-					<key>foreground</key>
-					<string>#0f8ebd</string>
 					<!-- <string>#11a0d4</string> -->
+					<string>#0078DE</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Variable Other Readwrite</string>
+				<key>scope</key>
+				<string>variable.other.readwrite</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<!-- <string>#0078DE</string> -->
+					<string>#333</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>meta.object.member</string>
+				<key>scope</key>
+				<string>meta.object.member</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<!-- <string>#0f8ebd</string> -->
+					<string>#11a0d4</string>
 				</dict>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>variable.other.property</string>
 				<key>scope</key>
-				<string>variable.other.property</string>
+				<string>variable.other.property,support.variable.property</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#a15ebb</string>
+					<string>#964bb4</string>
 				</dict>
 			</dict>
 			<dict>
@@ -187,23 +199,11 @@
 				<key>name</key>
 				<string>Function argument</string>
 				<key>scope</key>
-				<string>variable.parameter,meta.function.parameters,meta.function.parameters.js</string>
+				<string>variable.parameter,meta.parameters,meta.function.parameters,meta.function.parameters.js</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#cc5200</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>JS/TS Variable Other Readwrite</string>
-				<key>scope</key>
-				<string>variable.other.readwrite,meta.delimiter.comma.js</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<!--<string>#05ad97</string>-->
-					<string>#444</string>
+					<string>#E04528</string>
 				</dict>
 			</dict>
 			<dict>
@@ -214,16 +214,16 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<!--<string>#ED2B38</string>-->
-					<!--<string>#09A177</string>-->
 					<string>#05ad97</string>
+					<!-- <string>#09A177</string> -->
+					<!-- <string>#059481</string> -->
 				</dict>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>Keyword Operator</string>
 				<key>scope</key>
-				<string>keyword.operator</string>
+				<string>keyword.operator,meta.delimiter.comma</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
@@ -232,24 +232,25 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Keyword Operator.Logical.Python</string>
+				<string>Meta.For.Js</string>
 				<key>scope</key>
-				<string>keyword.operator.logical.python</string>
+				<string>keyword.operator.logical.python,keyword.operator.in.js,keyword.operator.of.js</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
 					<string>#05ad97</string>
+					<!-- <string>#059481</string> -->
 				</dict>
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Meta.For.Js</string>
+				<string>Keyword go</string>
 				<key>scope</key>
-				<string>keyword.operator.in.js,keyword.operator.of.js</string>
+				<string>keyword.control.go</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#05ad97</string>
+					<string>#059481</string>
 				</dict>
 			</dict>
 			<dict>
@@ -259,10 +260,19 @@
 				<string>storage</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string/>
 					<key>foreground</key>
 					<string>#cc4a33</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Storage modifier</string>
+				<key>scope</key>
+				<string>storage.modifier</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#3396cc</string>
 				</dict>
 			</dict>
 			<dict>
@@ -273,7 +283,29 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#ac0640</string>
+					<string>#D10771</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>entity.name.type</string>
+				<key>scope</key>
+				<string>entity.name.type</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#D10771</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>entity.name.type.namespace</string>
+				<key>scope</key>
+				<string>entity.name.type.namespace, markup.heading.markdown</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#007ae6</string>
 				</dict>
 			</dict>
 			<dict>
@@ -317,7 +349,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#a15ebb</string>
+					<string>#b017e8</string>
 				</dict>
 			</dict>
 			<dict>
@@ -327,10 +359,8 @@
 				<string>support.function</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string/>
 					<key>foreground</key>
-					<string>#c309b6</string>
+					<string>#7b10a2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -340,8 +370,6 @@
 				<string>support.constant</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string/>
 					<key>foreground</key>
 					<string>#3396cc</string>
 				</dict>
@@ -367,7 +395,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#cc4a33</string>
+					<string>#c5074a</string>
 				</dict>
 			</dict>
 			<dict>

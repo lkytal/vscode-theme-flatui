@@ -39,6 +39,11 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.6
+
+- Better support towards Golang and Markdown.
+- Other adjustments.
+
 ### 1.4.5
 
 - Better support towards Javascript and Python.
@@ -110,6 +115,7 @@ This theme won't born without the help of following creations, big thanks to the
 > <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="https://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 ## Support on Beerpay
+
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/badge.svg?style=beer-square)](https://beerpay.io/lkytal/vscode-theme-flatui)  [![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/make-wish.svg?style=flat-square)](https://beerpay.io/lkytal/vscode-theme-flatui?focus=wish)
+[![Beerpay](https://img.shields.io/badge/Donate-%20%241%20-green.svg?style=flat-square&longCache=true)](https://beerpay.io/lkytal/vscode-theme-flatui)
