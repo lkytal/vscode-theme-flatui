@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MIMEText	../samples\sample.py	/^from email.mime.text import MIMEText$/;"	kind:namespace	line:5
+PI	../samples\sample.py	/^PI = 3.14/;"	kind:variable	line:64
+a	../samples\sample.py	/^a = True$/;"	kind:variable	line:52
+argparse	../samples\sample.py	/^import argparse$/;"	kind:namespace	line:8
+args	../samples\sample.py	/^args = parser.parse_args()$/;"	kind:variable	line:17
+b	../samples\sample.py	/^b = 'bob'$/;"	kind:variable	line:53
+const	../samples\sample.py	/^const = 42$/;"	kind:variable	line:63
+f	../samples\sample.py	/^f = open(args.f, "r")$/;"	kind:variable	line:19
+foo	../samples\sample.py	/^foo = list()$/;"	kind:variable	line:57
+l	../samples\sample.py	/^l = open(args.l, "r")$/;"	kind:variable	line:22
+lines	../samples\sample.py	/^    lines = sp.split("\\n")$/;"	kind:variable	line:30
+m	../samples\sample.py	/^m = set(peps)$/;"	kind:variable	line:25
+my_func	../samples\sample.py	/^def my_func(args):$/;"	kind:function	line:60
+np	../samples\sample.py	/^import numpy as np$/;"	kind:namespace	line:7
+out	../samples\sample.py	/^out = open(args.o, "w")$/;"	kind:variable	line:39
+parser	../samples\sample.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:11
+pep	../samples\sample.py	/^            pep = line[6:]$/;"	kind:variable	line:34
+peps	../samples\sample.py	/^peps = l.readlines()$/;"	kind:variable	line:23
+random	../samples\sample.py	/^from random import random$/;"	kind:namespace	line:9
+rst	../samples\sample.py	/^rst = ""$/;"	kind:variable	line:27
+sample.py	../samples\sample.py	1;"	kind:file	line:1
+smtplib	../samples\sample.py	/^import smtplib$/;"	kind:namespace	line:2
+someMethod	../samples\sample.py	/^def someMethod(foo):$/;"	kind:function	line:49
+sps	../samples\sample.py	/^sps = f.read().strip().split('\\n\\n')$/;"	kind:variable	line:20

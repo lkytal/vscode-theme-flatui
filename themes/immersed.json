@@ -19,7 +19,7 @@
 		"notification.errorForeground": "#F0F0F0",
 		"notification.infoBackground": "#F1F1F1",
 		"notification.infoForeground": "#414141",
-		"notification.warningBackground": "#fddf35",
+		"notification.warningBackground": "#FDC602",
 		"notification.warningForeground": "#414141",
 		// Buttons
 		"button.background": "#2AA298",
@@ -36,8 +36,8 @@
 		"inputOption.activeBorder": "#2AA298",
 		"inputValidation.infoBorder": "#D0D0D0",
 		"inputValidation.infoBackground": "#F0F0F0",
-		"inputValidation.warningBackground": "#fddf35",
-		"inputValidation.warningBorder": "#B58900",
+		"inputValidation.warningBackground": "#FDC602",
+		"inputValidation.warningBorder": "#E0AF02",
 		"inputValidation.errorBackground": "#f76e6e",
 		"inputValidation.errorBorder": "#de3d3b",
 		// Badge
@@ -100,8 +100,8 @@
 		"editorBracketMatch.border": "#2AA298",
 		"editorError.foreground": "#E64D49",
 		"editorError.border": "#E64D49",
-		"editorWarning.foreground": "#FFD904",
-		"editorWarning.border": "#FFD904",
+		"editorWarning.foreground": "#FDC602",
+		"editorWarning.border": "#FDC602",
 		"editorGutter.addedBackground": "#49d0c5",
 		"editorGutter.modifiedBackground": "#6fbef6",
 		"editorGutter.deletedBackground": "#f76e6e",
@@ -125,7 +125,7 @@
 		"debugExceptionWidget.border": "#d9d9d9",
 		"editorMarkerNavigation.background": "#D0D0D0",
 		"editorMarkerNavigationError.background": "#f76e6e",
-		"editorMarkerNavigationWarning.background": "#fddf35",
+		"editorMarkerNavigationWarning.background": "#FDC602",
 		// Debug
 		"debugToolBar.background": "#F0F0F0",
 		// Picker Group
@@ -182,8 +182,8 @@
 		"terminal.ansiRed": "#de3d3b",
 		"terminal.ansiBrightWhite": "#F0F0F0",
 		"terminal.ansiWhite": "#F0F0F0",
-		"terminal.ansiBrightYellow": "#fcd703",
-		"terminal.ansiYellow": "#e3c102",
+		"terminal.ansiBrightYellow": "#FDC602",
+		"terminal.ansiYellow": "#E0AF02",
 		"terminal.background": "#F6F6F6",
 		"terminal.foreground": "#414141"
 	}

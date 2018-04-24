@@ -1,8 +1,8 @@
 # FlatUI Theme for VSCode
 
-<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
-<a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noreferrer noopener"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.png?style=flat-square"></a>
+[![Version](https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
+[![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-brightgreen.svg?style=flat-square&longCache=true)](https://creativecommons.org/licenses/by-sa/4.0)
 
 A flat syntax theme for VS Code.
 
@@ -118,4 +118,4 @@ This theme won't born without the help of following creations, big thanks to the
 
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://img.shields.io/badge/Donate-%20%241%20-green.svg?style=flat-square&longCache=true)](https://beerpay.io/lkytal/vscode-theme-flatui)
+[![Beerpay](https://img.shields.io/badge/Donate-_%241_-brightgreen.svg?style=flat-square&longCache=true)](https://beerpay.io/lkytal/vscode-theme-flatui)
