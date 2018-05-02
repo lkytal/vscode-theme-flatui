@@ -305,7 +305,29 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#007ae6</string>
+					<string>#1292E3</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>markup.underline.link</string>
+				<key>scope</key>
+				<string>markup.underline.link</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#D43C47</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beginning.punctuation.definition.list.markdown</string>
+				<key>scope</key>
+				<string>beginning.punctuation.definition.list.markdown</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#09A177</string>
 				</dict>
 			</dict>
 			<dict>

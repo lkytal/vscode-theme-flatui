@@ -39,6 +39,10 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.7
+
+- Adjustments towards Markdown.
+
 ### 1.4.6
 
 - Better support towards Golang and Markdown.
