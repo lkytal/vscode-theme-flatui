@@ -277,6 +277,18 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>Variable Other Readwrite</string>
+				<key>scope</key>
+				<string>variable.other.readwrite</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<!-- <string>#0078DE</string> -->
+					<string>#d0d0d0</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>Packages</string>
 				<key>scope</key>
 				<string>token.package.keyword</string>
@@ -299,13 +311,14 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Functions</string>
+				<string>Function name</string>
 				<key>scope</key>
-				<string>entity.name.function, meta.require, support.function.any-method</string>
+				<string>entity.name.function,variable.function,meta.function-call.generic.python,support.function.any-method</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
 					<string>#3193c6</string>
+					<!-- <string>#8d12ba</string> -->
 				</dict>
 			</dict>
 			<dict>

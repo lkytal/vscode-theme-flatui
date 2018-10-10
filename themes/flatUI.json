@@ -1,0 +1,7 @@
+{
+	"name": "flat-ui",
+	"tokenColors": "./flatUI.tmTheme",
+	"colors": {
+		"titleBar.activeBackground": "#F3F3F3"
+	}
+}

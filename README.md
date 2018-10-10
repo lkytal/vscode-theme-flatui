@@ -39,6 +39,11 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.8
+
+- Adjustments to fit new custom titlebar.
+- Better support towards Javascript and Python with Dark theme.
+
 ### 1.4.7
 
 - Adjustments towards Markdown.

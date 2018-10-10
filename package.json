@@ -2,7 +2,7 @@
 	"name": "FlatUI",
 	"displayName": "Flat UI",
 	"description": "A flat style theme for vscode",
-	"version": "1.4.7",
+	"version": "1.4.8",
 	"publisher": "lkytal",
 	"license": "CC-BY-NC-SA-4.0",
 	"engines": {
@@ -32,7 +32,7 @@
 			{
 				"label": "FlatUI",
 				"uiTheme": "vs",
-				"path": "./themes/flatUI.tmTheme"
+				"path": "./themes/flatUI.json"
 			},
 			{
 				"label": "FlatUI Immersed",
@@ -42,7 +42,7 @@
 			{
 				"label": "FlatUI Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/flatDark.tmTheme"
+				"path": "./themes/flatDark.json"
 			}
 		]
 	}
