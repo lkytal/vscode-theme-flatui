@@ -82,6 +82,10 @@
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
 		"editorGroupHeader.tabsBorder": "#F0F0F0",
 		"editorGroupHeader.noTabsBackground": "#F0F0F0",
+		"tab.activeModifiedBorder": "#2AA298",
+		"tab.inactiveModifiedBorder": "#2AA298",
+		"tab.unfocusedActiveModifiedBorder": "#2AA298",
+		"tab.unfocusedInactiveModifiedBorder": "#2AA298",
 		// Editor
 		"editor.background": "#FBFBFB",
 		"editor.foreground": "#414141",
