@@ -55,6 +55,8 @@
 		"list.focusForeground": "#414141",
 		"list.hoverForeground": "#414141",
 		"list.highlightForeground": "#414141",
+        	"list.errorForeground": "#E64D49",
+        	"list.warningForeground": "#FDC602",
 		// Activity Bar
 		"activityBar.background": "#F0F0F0",
 		"activityBar.foreground": "#414141",
@@ -67,6 +69,8 @@
 		"sideBar.foreground": "#414141",
 		"sideBarTitle.foreground": "#414141",
 		"sideBar.border": "#F0F0F0",
+		// Scroll Bar
+		"scrollbar.shadow": "#0000",
 		// Tabs
 		"tab.border": "#F0F0F0",
 		"tab.activeBackground": "#F6F6F6",
@@ -78,6 +82,10 @@
 		"editorGroupHeader.tabsBackground": "#F0F0F0",
 		"editorGroupHeader.tabsBorder": "#F0F0F0",
 		"editorGroupHeader.noTabsBackground": "#F0F0F0",
+		"tab.activeModifiedBorder": "#2AA298",
+		"tab.inactiveModifiedBorder": "#2AA298",
+		"tab.unfocusedActiveModifiedBorder": "#2AA298",
+		"tab.unfocusedInactiveModifiedBorder": "#2AA298",
 		// Editor
 		"editor.background": "#FBFBFB",
 		"editor.foreground": "#414141",
@@ -106,6 +114,8 @@
 		"editorGutter.modifiedBackground": "#6fbef6",
 		"editorGutter.deletedBackground": "#f76e6e",
 		"editorRuler.foreground": "#d9d9d9",
+        	"editorOverviewRuler.errorForeground": "#E64D49",
+        	"editorOverviewRuler.warningForeground": "#FDC602",
 		// Diff Editor
 		// "diffEditor.insertedTextBackground": "#9ED581",
 		// "diffEditor.insertedTextBorder": "#9ED581",
