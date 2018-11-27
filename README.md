@@ -39,6 +39,10 @@ A flat syntax theme for VS Code.
 
 ## Release Note
 
+### 1.4.9
+
+- Adjustments to immersed theme.
+
 ### 1.4.8
 
 - Adjustments to fit new custom titlebar.
