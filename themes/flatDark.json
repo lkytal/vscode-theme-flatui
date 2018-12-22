@@ -2,6 +2,20 @@
 	"name": "flat-ui",
 	"tokenColors": "./flatDark.tmTheme",
 	"colors": {
-		"titleBar.activeBackground": "#252526"
+		"titleBar.activeBackground": "#252526",
+		// peek view
+		"peekView.border": "#3c424c",
+		"peekViewEditor.background": "#222",
+		"peekViewEditorGutter.background": "#222",
+		"peekViewEditor.matchHighlightBackground": "#3c424c",
+		"peekViewResult.background": "#252526",
+		"peekViewResult.fileForeground": "#ddd",
+		"peekViewResult.lineForeground": "#ddd",
+		"peekViewResult.matchHighlightBackground": "#3c424c",
+		"peekViewResult.selectionBackground": "#3c424c",
+		"peekViewResult.selectionForeground": "#ddd",
+		"peekViewTitle.background": "#252526",
+		"peekViewTitleLabel.foreground": "#ddd",
+		"peekViewTitleDescription.foreground": "#ddd"
 	}
 }
