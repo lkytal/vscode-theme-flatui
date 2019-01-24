@@ -240,7 +240,17 @@
                     <string>#d19a66ff</string>
                 </dict>
             </dict>
-
+            <dict>
+                <key>name</key>
+                <string>markup.underline.link.image.markdown</string>
+                <key>scope</key>
+                <string>markup.underline.link.image.markdown</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#d19a66ff</string>
+                </dict>
+            </dict>
             <!-- Markdown-->
             <!-- variable.other.constant.js -->
             <dict>
