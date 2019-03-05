@@ -45,5 +45,10 @@
 				"path": "./themes/flatDark.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "53ceb0a7-7e7a-4f26-a91d-084f3d714420",
+		"publisherDisplayName": "Kaiyuan Liu",
+		"publisherId": "675457ed-0b91-461b-a1b3-da865bf32269"
 	}
 }
