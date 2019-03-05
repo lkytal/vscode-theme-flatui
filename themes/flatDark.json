@@ -1,5 +1,5 @@
 {
-	"name": "flat-ui",
+	"name": "flat-ui-onFire",
 	"tokenColors": "./flatDark.tmTheme",
 	"colors": {
 		"titleBar.activeBackground": "#252526",
